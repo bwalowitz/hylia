@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: about
-permalink: /about
+permalink: /about.html
 ---
 dgdfgfdgfdhd
